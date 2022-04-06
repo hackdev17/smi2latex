@@ -1,4 +1,4 @@
-# smi2tex #
+# smi2latex #
 
 ## Introduction ##
 Convert SMI input to LaTeX `\chemfig{}` </br>
