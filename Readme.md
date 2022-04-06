@@ -33,4 +33,4 @@ This shell script used to run `obabel` which converts input to a `*.mol` file an
 Just type the smile coeds you want in LaTeX </br>
 
 ## Output ##
-No output file is genarated,only LaTeX syntax is genarated
+No output file is genarated, Only LaTeX syntax is genarated
