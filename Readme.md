@@ -27,7 +27,7 @@ You may install them through `pip` if not available </br>
 `$ pip install -U mol2chemfigPy3`</br>
 
 ## How it works ##
-This shell script used to run `obabel` which converts input to a `*.mol` file and `mol2latex` converts `*.mol` to `*.tex` </br>
+This shell script used to run `obabel` which converts input to a `*.mol` file and `mol2chemfig` converts `*.mol` to `*.tex` </br>
 
 ## Usage ##
 Just type the smile coeds you want in LaTeX </br>
