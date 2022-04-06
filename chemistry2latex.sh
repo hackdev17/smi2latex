@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Clear the Scren
+# Clear the Screen
 clear
 
 # Animated Title
