@@ -1,28 +1,28 @@
 # smi2tex
 
-Introduction :
-Convert SMI input to LaTeX [ \chemfig{} ]
+ntroduction :</h3> </br>
+Convert SMI input to LaTeX [ \chemfig{} ] </br>
 
-Prerequisites/Dependencies : /n
-You need to install `obabel` & `mol2latex` packages
-Installation through command line is better in some case due to non-availability above of packages
-You may install them through `pip` if not available
+Prerequisites/Dependencies : </br>
+You need to install `obabel` & `mol2latex` packages </br>
+Installation through command line is better in some case due to non-availability above of packages </br>
+You may install them through `pip` if not available </br>
 
-Commands :
+Commands : </h3>
 
-Debian :
-`sudo apt-get update`
-`sudo apt get-install obabel mol2chemfig`
+Debian : </h4> </br>
+`sudo apt-get update`</br>
+`sudo apt get-install obabel mol2chemfig`</br>
 
-Arch Linux :
-`paru obabel mol2chemfig`
-`yay obabel mol2chemfig`
+Arch Linux : </h4> </br>
+`paru obabel mol2chemfig`</br>
+`yay obabel mol2chemfig`</br>
 
-How it works :
-This shell script used to run `obabel` which converts input to a *.mol file and `mol2latex` converts *.mol to *.tex
+How it works : </h3> </br>
+This shell script used to run `obabel` which converts input to a *.mol file and `mol2latex` converts *.mol to *.tex </br>
 
-Usage :
-Just type the smile coeds u want in LaTeX
+Usage : </h3> </br>
+Just type the smile coeds u want in LaTeX </br>
 
-Output :
+Output : </h3> </br>
 No output file is genarated,only LaTeX syntax is genarated
