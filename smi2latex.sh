@@ -30,7 +30,7 @@ echo "
 MOL file Contents :" | lolcat
 cat /tmp/chemistry_molfile.mol
 
-# Converting MOL to LaTeX [Using \chemfig{}]
+# Converting MOL to LaTeX [Using mol2chemfig]
 echo "
 Converted LaTeX syntax :
 " | lolcat
