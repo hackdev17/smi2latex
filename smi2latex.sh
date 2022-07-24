@@ -20,7 +20,7 @@ chemconverter ()
     directsmi ()
     {
         # Direct Converter
-        mol2chemfig -w -i direct $input
+        python3 -m mol2chemfigPy3 -w -i direct $input
     }
 
     obabelconv ()
