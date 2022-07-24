@@ -27,15 +27,15 @@ You may install them through `pip` if not available </br>
 `$ pip install -U mol2chemfigPy3`</br>
 
 ## Additional Packages [LaTeX]
-To render some complex structures, and ring like structure use the `mol2chemfig` package in LaTeX
+To render some complex structures, and ring like structure use the `mol2chemfig` package in LaTeX </br>
 i.e add the line `\usepackage{mol2chemfig}`
 
 ## How it works ##
-Simply it converts user input to `\chemfig{}` output.
+Simply it converts user input to `\chemfig{}` output. </br>
 If failes then, runs `obabel` which converts input to a `*.mol` file and `mol2chemfig` converts `*.mol` to `*.tex` </br>
 
 ## Usage ##
-Just type the smile coeds you want in LaTeX </br>
+Just type the smile codes you want in LaTeX </br>
 
 ## Output ##
 No output file is genarated, Only LaTeX syntax is genarated
