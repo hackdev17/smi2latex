@@ -29,7 +29,7 @@ chemconverter ()
         echo $input > $source
 
         # Using open-babel
-        printf \n
+        printf '\n' ""
         obabel -i smi -: "/tmp/chem_smiles.smi" \
         -o mol -O $target
 
