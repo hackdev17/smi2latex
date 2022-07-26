@@ -4,7 +4,7 @@
 Convert SMI input to LaTeX `\chemfig{}` </br>
 
 ## Prerequisites/Dependencies ##
-You need to install `obabel` & `mol2latex` packages </br>
+You need to install `obabel` & `mol2chemfig` packages </br>
 Installation through command line is better in some case due to non-availability above of packages </br>
 You may install them through `pip` if not available </br>
 
@@ -26,7 +26,7 @@ You may install them through `pip` if not available </br>
 `$ sudo pacman -S python-pip`</br>
 `$ pip install -U mol2chemfigPy3`</br>
 
-## Additional Packages [LaTeX]
+## Additional Packages [LaTeX] ##
 To render some complex structures, and ring like structure use the `mol2chemfig` package in LaTeX </br>
 i.e add the line `\usepackage{mol2chemfig}`
 
